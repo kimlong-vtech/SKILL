@@ -1,9 +1,9 @@
 ---
 name: daily-report
-description: "Generate a short daily development report from your own GitHub pull requests. Use when you need 3 candidate report samples based on date PR titles and diffs, grouped by top-level folder with very short bullets."
+description: 'Generate a short daily development report from your own GitHub pull requests. Use when you need 3 candidate report samples based on date PR titles and diffs, grouped by top-level folder with very short bullets.'
 metadata:
-  version: "0.1"
-argument-hint: "Date or PR scope for the report, for example: today, yesterday, or this week"
+  version: '0.1'
+argument-hint: 'Date or PR scope for the report, for example: today, yesterday, or this week'
 ---
 
 # Daily Report
