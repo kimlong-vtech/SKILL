@@ -6,6 +6,12 @@ argument-hint: 'Date or PR scope for the report, for example: today, yesterday, 
 
 # Daily Report
 
+## Prerequisites
+
+- `gh` (GitHub CLI) installed and authenticated (`gh auth status` passes)
+- Access to the target repositories from the current environment
+- Internet access to reach the GitHub API
+
 ## When to Use
 
 Use this skill when the user wants a short daily report based on their own GitHub pull requests and the underlying changes.
