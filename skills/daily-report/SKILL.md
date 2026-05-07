@@ -51,6 +51,12 @@ Default behavior:
 ```text
 Sample 1:
 
+# Daily Report
+
+**Project:** {repo-name}
+**Date:** {report date}
+**Reporter:** {user name}
+
 Complete task:
 [backend]
 • task 1
